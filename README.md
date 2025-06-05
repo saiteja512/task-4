@@ -15,14 +15,10 @@ The goal of this project was to design an interactive dashboard using **Tableau*
 ---
 
 ## ⚙️ Features in the Dashboard
-- ✅ KPI Cards for Total Sales, Profit, and Orders
-- ✅ Time-Series Analysis (Monthly/Quarterly Trends)
-- ✅ Interactive Filters for Region, Category, and Date
-- ✅ Bar/Column Charts for Category-wise Sales & Profit
-- ✅ Map Visualization for Region-level Sales
-- ✅ Consistent Color Theme and Clean Layout
-- ✅ Tooltip Interactivity and Filter Actions
-- ✅ Multi-page Navigation (if implemented)
+- KPI Cards for Total Sales, Profit, and Orders
+- Products sold by Agents
+- Calls Status Donut
+- Consistent Color Theme and Clean Layout
 
 ---
 
